@@ -1,5 +1,23 @@
+<div class="nav">
+  <ul>
+    <li><%= link_to "White", :controller => "rtr", :action => "index", :color => "w" %></li>
+    <li><%= link_to "Blue", :controller => "rtr", :action => "index", :color => "u" %></li>
+    <li><%= link_to "Black", :controller => "rtr", :action => "index", :color => "b" %></li>
+    <li><%= link_to "Red", :controller => "rtr", :action => "index", :color => "r" %></li>
+    <li><%= link_to "Green", :controller => "rtr", :action => "index", :color => "g" %></li>
+    <li><%= link_to "Azorius", :controller => "rtr", :action => "index", :color => "azorius" %></li>
+    <li><%= link_to "Golgari", :controller => "rtr", :action => "index", :color => "golgari" %></li>
+    <li><%= link_to "Izzet", :controller => "rtr", :action => "index", :color => "izzet" %></li>
+    <li><%= link_to "Rakdos", :controller => "rtr", :action => "index", :color => "rakdos" %></li>
+    <li><%= link_to "Selesnya", :controller => "rtr", :action => "index", :color => "selesnya" %></li>
+    <li><%= link_to "All", :controller => "rtr", :action => "index", :color => "all" %></li>
+  </ul>
+</div>
+
 <ul>
-<% @cards.each do |card| %>
- <li class="card"><%= image_tag card.name << ".jpg" %></li>
-<% end %>
+  <% @cards.each do |@card| %>
+  <li class="card">
+    <%= image_tag @card.name << ".jpg" %>
+  </li>
+  <% end %>
 </ul>
