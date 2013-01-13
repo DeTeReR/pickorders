@@ -1,5 +1,5 @@
 <ul>
 <% @cards.each do |card| %>
-  <li><%= card.name %></li>
+  <li><%= image_tag card.name << ".jpg" %></li>
 <% end %>
 </ul>
