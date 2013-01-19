@@ -1,5 +1,0 @@
-<ul>
-<% @cards.for_each do |card| %>
-  <li><%= card.name %></li>
-<% end %>
-</ul>
