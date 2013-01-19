@@ -14,10 +14,22 @@
   </ul>
 </div>
 
+<%= @message %>
+
 <ul>
-  <% @cards.each do |@card| %>
+  <% @cards.each do |card| %>
   <li class="card">
-    <%= image_tag @card.name << ".jpg" %>
+    <%= image_tag card.name + ".jpg" %>
+    <%= form_tag("/rtr/update", :method => "post") do %>
+      <%= submit_tag("<<") %>
+      <%= submit_tag("<") %>
+      <%= submit_tag(">") %>
+      <%= submit_tag(">>") %> <br>
+      <%= hidden_field_tag(:color, card.color) %>
+      <%= hidden_field_tag(:name, card.name) %>
+      <%= text_field_tag(:position, card.position, :size => "2") %>
+      <%= submit_tag("Move") %>
+    <% end %>
   </li>
   <% end %>
 </ul>
