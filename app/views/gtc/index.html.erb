@@ -21,14 +21,14 @@
   <li class="card">
     <%= image_tag card.name + ".jpg" %>
     <%= form_tag("/gtc/update", :method => "post") do %>
-      <%= submit_tag("<<") %>
-      <%= submit_tag("<") %>
-      <%= submit_tag(">") %>
-      <%= submit_tag(">>") %> <br>
       <%= hidden_field_tag(:color, card.color) %>
       <%= hidden_field_tag(:name, card.name) %>
       <%= text_field_tag(:position, card.position, :size => "2") %>
-      <%= submit_tag("Move") %>
+      <%= submit_tag("Move") %> <br>
+      <%= submit_tag("<<") %>
+      <%= submit_tag("<") %>
+      <%= submit_tag(">") %>
+      <%= submit_tag(">>") %>
     <% end %>
   </li>
   <% end %>
