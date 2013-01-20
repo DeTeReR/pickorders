@@ -1,15 +1,15 @@
-class RtrController < ApplicationController
+class GtcController < ApplicationController
   def index
-    @cards = Card.where("color = ? and set = 'rtr'", params[:color]).order("position ASC");
+    @cards = Card.where("color = ? and set = 'gtc'", params[:color]).order("position ASC");
   end
   
   def update
-    original = Card.where("color = ? and name = ? and set = 'rtr'", params[:color], params[:name]);
+    original = Card.where("color = ? and name = ? and set = 'gtc'", params[:color], params[:name]);
 	if params[:commit] == '<<'
 	  params[:position] = 1
 	end
 	if params[:commit] == '>>'
-	  params[:position] = Card.where("color = ? and set = 'rtr'", params[:color]).order("position ASC")[-1].position;
+	  params[:position] = Card.where("color = ? and set = 'gtc'", params[:color]).order("position ASC")[-1].position;
     end
 	if params[:commit] == '<'
 	  params[:position] = Integer(params[:position]) - 1
@@ -17,7 +17,7 @@ class RtrController < ApplicationController
 	if params[:commit] == '>'
 	  params[:position] = Integer(params[:position]) + 1
     end
-	target = Card.where("color = ? and position = ? and set = 'rtr'", params[:color], params[:position]);
+	target = Card.where("color = ? and position = ? and set = 'gtc'", params[:color], params[:position]);
     
 	if original.length == 1 and target.length ==1
 	  original = original[0];
@@ -27,7 +27,7 @@ class RtrController < ApplicationController
 		if original.position < target.position
 		  #move down
 		  for i in original.position+1..target.position
-		    Card.where("color = ? and position = ? and set = 'rtr'", params[:color], i)[0].update_attributes(:position => i-1)
+		    Card.where("color = ? and position = ? and set = 'gtc'", params[:color], i)[0].update_attributes(:position => i-1)
 		  end
 		  original.position = target.position
 		  original.save
@@ -35,7 +35,7 @@ class RtrController < ApplicationController
 		  #move up
 		  i = original.position
 		  while i > target.position
-		    Card.where("color = ? and position = ? and set = 'rtr'", params[:color], i-1)[0].update_attributes(:position => i)
+		    Card.where("color = ? and position = ? and set = 'gtc'", params[:color], i-1)[0].update_attributes(:position => i)
 		    i -= 1;
 		  end
 		  original.position = target.position
@@ -44,6 +44,6 @@ class RtrController < ApplicationController
       end
 	end
 	
-	redirect_to('/rtr/'+params[:color])
+	redirect_to('/gtc/'+params[:color])
   end
 end

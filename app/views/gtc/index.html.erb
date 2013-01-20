@@ -1,0 +1,35 @@
+<div class="nav">
+  <ul>
+    <li><%= link_to "White", :controller => "gtc", :action => "index", :color => "w" %></li>
+    <li><%= link_to "Blue", :controller => "gtc", :action => "index", :color => "u" %></li>
+    <li><%= link_to "Black", :controller => "gtc", :action => "index", :color => "b" %></li>
+    <li><%= link_to "Red", :controller => "gtc", :action => "index", :color => "r" %></li>
+    <li><%= link_to "Green", :controller => "gtc", :action => "index", :color => "g" %></li>
+    <li><%= link_to "Boros", :controller => "gtc", :action => "index", :color => "boros" %></li>
+    <li><%= link_to "Dimir", :controller => "gtc", :action => "index", :color => "dimir" %></li>
+    <li><%= link_to "Gruul", :controller => "gtc", :action => "index", :color => "gruul" %></li>
+    <li><%= link_to "Orzhov", :controller => "gtc", :action => "index", :color => "orzhov" %></li>
+    <li><%= link_to "Simic", :controller => "gtc", :action => "index", :color => "simic" %></li>
+    <li><%= link_to "All", :controller => "gtc", :action => "index", :color => "all" %></li>
+  </ul>
+</div>
+
+<%= @message %>
+
+<ul>
+  <% @cards.each do |card| %>
+  <li class="card">
+    <%= image_tag card.name + ".jpg" %>
+    <%= form_tag("/gtc/update", :method => "post") do %>
+      <%= submit_tag("<<") %>
+      <%= submit_tag("<") %>
+      <%= submit_tag(">") %>
+      <%= submit_tag(">>") %> <br>
+      <%= hidden_field_tag(:color, card.color) %>
+      <%= hidden_field_tag(:name, card.name) %>
+      <%= text_field_tag(:position, card.position, :size => "2") %>
+      <%= submit_tag("Move") %>
+    <% end %>
+  </li>
+  <% end %>
+</ul>

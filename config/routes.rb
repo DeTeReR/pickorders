@@ -1,4 +1,6 @@
 Pickorders::Application.routes.draw do
+  get "gtc/index"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
@@ -7,6 +9,9 @@ Pickorders::Application.routes.draw do
   # Keep in mind you can assign values other than :controller and :action
   match '/rtr/update' => 'rtr#update'
   match '/rtr/:color' => 'rtr#index'
+  
+  match '/gtc/update' => 'gtc#update'
+  match '/gtc/:color' => 'gtc#index'
 
   # Sample of named route:
   #   match 'products/:id/purchase' => 'catalog#purchase', :as => :purchase
@@ -15,6 +20,7 @@ Pickorders::Application.routes.draw do
   # Sample resource route (maps HTTP verbs to controller actions automatically):
   #   resources :products
   resources :rtr
+  resources :gtc
 
   # Sample resource route with options:
   #   resources :products do
@@ -51,7 +57,7 @@ Pickorders::Application.routes.draw do
 
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
-  root :to => 'rtr#index', :color => 'all';
+  root :to => 'gtc#index', :color => 'all';
 
   # See how all your routes lay out with "rake routes"
 

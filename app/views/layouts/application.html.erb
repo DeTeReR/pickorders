@@ -9,6 +9,12 @@
 <body>
 <div class="site">
   <div class="header">
+    <div class="nav">
+      <ul>
+        <li><%= link_to "Return to Ravnica", :controller => "rtr", :action => "index", :color => "all" %></li>
+        <li><%= link_to "Gatecrash", :controller => "gtc", :action => "index", :color => "all" %></li>
+      </ul>
+    </div>
   </div>
   <div class="main">
     <%= yield %>
