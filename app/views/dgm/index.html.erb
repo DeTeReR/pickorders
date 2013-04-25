@@ -1,0 +1,27 @@
+<div class="nav">
+  <ul>
+    <li><%= link_to "Common", :controller => "dgm", :action => "index", :color => "c" %></li>
+    <li><%= link_to "Uncommon", :controller => "dgm", :action => "index", :color => "u" %></li>
+    <li><%= link_to "Rare", :controller => "dgm", :action => "index", :color => "r" %></li>
+  </ul>
+</div>
+
+<%= @message %>
+
+<ul>
+  <% @cards.each do |card| %>
+  <li class="card">
+    <%= image_tag "http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=" + card.name %>
+    <%= form_tag("/dgm/update", :method => "post") do %>
+      <%= hidden_field_tag(:color, card.color) %>
+      <%= hidden_field_tag(:name, card.name) %>
+      <%= text_field_tag(:position, card.position, :size => "2") %>
+      <%= submit_tag("Move") %> <br>
+      <%= submit_tag("<<") %>
+      <%= submit_tag("<") %>
+      <%= submit_tag(">") %>
+      <%= submit_tag(">>") %>
+    <% end %>
+  </li>
+  <% end %>
+</ul>

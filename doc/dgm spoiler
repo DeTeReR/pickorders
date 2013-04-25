@@ -1,0 +1,1311 @@
+Name	Advent of the Wurm
+Cost:	 1GGW
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Put a 5/5 green Wurm creature token with trample onto the battlefield.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Alive // Well (Alive)
+Cost:	 3G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Put a 3/3 green Centaur creature token onto the battlefield.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Armed // Dangerous (Armed)
+Cost:	 1R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target creature gets +1/+1 and gains double strike until end of turn.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Armored Wolf-Rider
+Cost:	 3GW
+Type:	 Creature — Elf Knight
+Pow/Tgh:	 (4/6)
+Rules Text:	
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Ascended Lawmage
+Cost:	 2WU
+Type:	 Creature — Vedalken Wizard
+Pow/Tgh:	 (3/2)
+Rules Text:	 Flying, hexproof
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Far // Away (Away)
+Cost:	 2B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target player sacrifices a creature.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Awe for the Guilds
+Cost:	 2R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Monocolored creatures can't block this turn.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Azorius Cluestone
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Add {W} or {U} to your mana pool.
+{W}{U}, {T}, Sacrifice Azorius Cluestone: Draw a card.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Azorius Guildgate
+Cost:	
+Type:	 Land — Gate
+Pow/Tgh:	
+Rules Text:	 Azorius Guildgate enters the battlefield tapped.
+{T}: Add {W} or {U} to your mana pool.
+Set/Rarity:	 Dragon's Maze Common, Return to Ravnica Common
+
+Name	Bane Alley Blackguard
+Cost:	 1B
+Type:	 Creature — Human Rogue
+Pow/Tgh:	 (1/3)
+Rules Text:	
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Battering Krasis
+Cost:	 2G
+Type:	 Creature — Fish Beast
+Pow/Tgh:	 (2/1)
+Rules Text:	 Trample
+Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Beck // Call (Beck)
+Cost:	 GU
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Whenever a creature enters the battlefield this turn, you may draw a card.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Beetleform Mage
+Cost:	 1GU
+Type:	 Creature — Human Insect Wizard
+Pow/Tgh:	 (2/2)
+Rules Text:	 {G}{U}: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Blast of Genius
+Cost:	 4UR
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Choose target creature or player. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card's converted mana cost to that creature or player.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Blaze Commando
+Cost:	 3RW
+Type:	 Creature — Minotaur Soldier
+Pow/Tgh:	 (5/3)
+Rules Text:	 Whenever an instant or sorcery spell you control deals damage, put two 1/1 red and white Soldier creature tokens with haste onto the battlefield.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Flesh // Blood (Blood)
+Cost:	 RG
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target creature you control deals damage equal to its power to target creature or player.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Blood Baron of Vizkopa
+Cost:	 3WB
+Type:	 Creature — Vampire
+Pow/Tgh:	 (4/4)
+Rules Text:	 Lifelink, protection from white and from black
+As long as you have 30 or more life and an opponent has 10 or less life, Blood Baron of Vizkopa gets +6/+6 and has flying.
+Set/Rarity:	 Dragon's Maze Mythic Rare
+
+Name	Blood Scrivener
+Cost:	 1B
+Type:	 Creature — Zombie Wizard
+Pow/Tgh:	 (2/1)
+Rules Text:	 If you would draw a card while you have no cards in hand, instead draw two cards and lose 1 life.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Boros Battleshaper
+Cost:	 5RW
+Type:	 Creature — Minotaur Soldier
+Pow/Tgh:	 (5/5)
+Rules Text:	 At the beginning of each combat, up to one target creature attacks or blocks this combat if able and up to one target creature can't attack or block this combat.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Boros Cluestone
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Add {R} or {W} to your mana pool.
+{R}{W}, {T}, Sacrifice Boros Cluestone: Draw a card.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Boros Guildgate
+Cost:	
+Type:	 Land — Gate
+Pow/Tgh:	
+Rules Text:	 Boros Guildgate enters the battlefield tapped.
+{T}: Add {R} or {W} to your mana pool.
+Set/Rarity:	 Dragon's Maze Common, Gatecrash Common
+
+Name	Boros Mastiff
+Cost:	 1W
+Type:	 Creature — Hound
+Pow/Tgh:	 (2/2)
+Rules Text:	 Battalion — Whenever Boros Mastiff and at least two other creatures attack, Boros Mastiff gains lifelink until end of turn. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Breaking // Entering (Breaking)
+Cost:	 UB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target player puts the top eight cards of his or her library into his or her graveyard.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Bred for the Hunt
+Cost:	 1GU
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, you may draw a card.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Bronzebeak Moa
+Cost:	 2GW
+Type:	 Creature — Bird
+Pow/Tgh:	 (2/2)
+Rules Text:	 Whenever another creature enters the battlefield under your control, Bronzebeak Moa gets +3/+3 until end of turn.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Turn // Burn (Burn)
+Cost:	 1R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Burn deals 2 damage to target creature or player.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Beck // Call (Call)
+Cost:	 4WU
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Put four 1/1 white Bird creature tokens with flying onto the battlefield.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Carnage Gladiator
+Cost:	 2BR
+Type:	 Creature — Skeleton Warrior
+Pow/Tgh:	 (4/2)
+Rules Text:	 Whenever a creature blocks, that creature's controller loses 1 life.
+{1}{B}{R}: Regenerate Carnage Gladiator.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Catch // Release (Catch)
+Cost:	 1UR
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Gain control of target permanent until end of turn. Untap it. It gains haste until end of turn.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Clear a Path
+Cost:	 R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Destroy target creature with defender.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Council of the Absolute
+Cost:	 2WU
+Type:	 Creature — Human Advisor
+Pow/Tgh:	 (2/4)
+Rules Text:	 As Council of the Absolute enters the battlefield, name a card other than a creature or land card.
+Your opponents can't cast cards with the chosen name.
+Spells with the chosen name you cast cost {2} less to cast.
+Set/Rarity:	 Dragon's Maze Mythic Rare
+
+Name	Crypt Incursion
+Cost:	 2B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Exile all creature cards from target player's graveyard. You gain 3 life for each card exiled this way.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Armed // Dangerous (Dangerous)
+Cost:	 3G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 All creatures able to block target creature this turn do so.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Deadbridge Chant
+Cost:	 4BG
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 When Deadbridge Chant enters the battlefield, put the top ten cards of your library into your graveyard.
+At the beginning of your upkeep, choose a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, put it into your hand.
+Set/Rarity:	 Dragon's Maze Mythic Rare
+
+Name	Debt to the Deathless
+Cost:	 XWWBB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Each opponent loses two times X life. You gain life equal to the life lost this way.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Deputy of Acquittals
+Cost:	 WU
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (2/2)
+Rules Text:	 Flash (You may cast this spell any time you could cast an instant.)
+When Deputy of Acquittals enters the battlefield, you may return another target creature you control to its owner's hand.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Dimir Cluestone
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Add {U} or {B} to your mana pool.
+{U}{B}, {T}, Sacrifice Dimir Cluestone: Draw a card.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Dimir Guildgate
+Cost:	
+Type:	 Land — Gate
+Pow/Tgh:	
+Rules Text:	 Dimir Guildgate enters the battlefield tapped.
+{T}: Add {U} or {B} to your mana pool.
+Set/Rarity:	 Dragon's Maze Common, Gatecrash Common
+
+Name	Down // Dirty (Dirty)
+Cost:	 2G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Return target card from your graveyard to your hand.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Down // Dirty (Down)
+Cost:	 3B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target player discards two cards.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Dragonshift
+Cost:	 1UR
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Until end of turn, target creature you control becomes a 4/4 blue and red Dragon, loses all abilities, and gains flying.
+Overload {3}{U}{U}{R}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Drown in Filth
+Cost:	 BG
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Choose target creature. Put the top four cards of your library into your graveyard, then that creature gets -1/-1 until end of turn for each land card in your graveyard.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Emmara Tandris
+Cost:	 5GW
+Type:	 Legendary Creature — Elf Shaman
+Pow/Tgh:	 (5/7)
+Rules Text:	 Prevent all damage that would be dealt to creature tokens you control.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Breaking // Entering (Entering)
+Cost:	 4UB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Put a creature card from a graveyard onto the battlefield under your control. It gains haste until end of turn.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Exava, Rakdos Blood Witch
+Cost:	 2BR
+Type:	 Legendary Creature — Human Cleric
+Pow/Tgh:	 (3/3)
+Rules Text:	 First strike, haste
+Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)
+Each other creature you control with a +1/+1 counter on it has haste.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Far // Away (Far)
+Cost:	 1U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Return target creature to its owner's hand.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Fatal Fumes
+Cost:	 3B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets -4/-2 until end of turn.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Feral Animist
+Cost:	 1RG
+Type:	 Creature — Goblin Shaman
+Pow/Tgh:	 (2/1)
+Rules Text:	 {3}: Feral Animist gets +X/+0 until end of turn, where X is its power.
+Set/Rarity:	 Dragon's Maze Uncommon, Guildpact Uncommon
+
+Name	Flesh // Blood (Flesh)
+Cost:	 3BG
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Exile target creature card from a graveyard. Put X +1/+1 counters on target creature, where X is the power of the card you exiled.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Fluxcharger
+Cost:	 2UR
+Type:	 Creature — Weird
+Pow/Tgh:	 (1/5)
+Rules Text:	 Flying
+Whenever you cast an instant or sorcery spell, you may switch Fluxcharger's power and toughness until end of turn.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Gaze of Granite
+Cost:	 XBBG
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Destroy each nonland permanent with converted mana cost X or less.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Give // Take (Give)
+Cost:	 2G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Put three +1/+1 counters on target creature.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Gleam of Battle
+Cost:	 4RW
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever a creature you control attacks, put a +1/+1 counter on it.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Goblin Test Pilot
+Cost:	 1UR
+Type:	 Creature — Goblin Wizard
+Pow/Tgh:	 (0/2)
+Rules Text:	 Flying
+{T}: Goblin Test Pilot deals 2 damage to target creature or player chosen at random.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Golgari Cluestone
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Add {B} or {G} to your mana pool.
+{B}{G}, {T}, Sacrifice Golgari Cluestone: Draw a card.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Golgari Guildgate
+Cost:	
+Type:	 Land — Gate
+Pow/Tgh:	
+Rules Text:	 Golgari Guildgate enters the battlefield tapped.
+{T}: Add {B} or {G} to your mana pool.
+Set/Rarity:	 Dragon's Maze Common, Return to Ravnica Common
+
+Name	Gruul Cluestone
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Add {R} or {G} to your mana pool.
+{R}{G}, {T}, Sacrifice Gruul Cluestone: Draw a card.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Gruul Guildgate
+Cost:	
+Type:	 Land — Gate
+Pow/Tgh:	
+Rules Text:	 Gruul Guildgate enters the battlefield tapped.
+{T}: Add {R} or {G} to your mana pool.
+Set/Rarity:	 Dragon's Maze Common, Gatecrash Common
+
+Name	Gruul War Chant
+Cost:	 2RG
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Each attacking creature you control gets +1/+0 and can't be blocked except by two or more creatures.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Haunter of Nightveil
+Cost:	 3UB
+Type:	 Creature — Spirit
+Pow/Tgh:	 (3/4)
+Rules Text:	 Creatures your opponents control get -1/-0.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Hidden Strings
+Cost:	 1U
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 You may tap or untap target permanent, then you may tap or untap another target permanent.
+Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Hired Torturer
+Cost:	 2B
+Type:	 Creature — Human Rogue
+Pow/Tgh:	 (2/3)
+Rules Text:	 Defender
+{3}{B}, {T}: Target opponent loses 2 life, then reveals a card at random from his or her hand.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Haazda Snare Squad
+Cost:	 2W
+Type:	 Creature — Human Soldier
+Pow/Tgh:	 (1/4)
+Rules Text:	 Whenever Haazda Snare Squad attacks, you may pay {W}. If you do, tap target creature an opponent controls.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Izzet Cluestone
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Add {U} or {R} to your mana pool.
+{U}{R}, {T}, Sacrifice Izzet Cluestone: Draw a card.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Izzet Guildgate
+Cost:	
+Type:	 Land — Gate
+Pow/Tgh:	
+Rules Text:	 Izzet Guildgate enters the battlefield tapped.
+{T}: Add {U} or {R} to your mana pool.
+Set/Rarity:	 Dragon's Maze Common, Return to Ravnica Common
+
+Name	Jelenn Sphinx
+Cost:	 3WU
+Type:	 Creature — Sphinx
+Pow/Tgh:	 (1/5)
+Rules Text:	 Flying, vigilance
+Whenever Jelenn Sphinx attacks, other attacking creatures get +1/+1 until end of turn.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Korozda Gorgon
+Cost:	 3BG
+Type:	 Creature — Gorgon
+Pow/Tgh:	 (2/5)
+Rules Text:	 Deathtouch
+{2}, Remove a +1/+1 counter from a creature you control: Target creature gets -1/-1 until end of turn.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Krasis Incubation
+Cost:	 2GU
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+{1}{G}{U}, Return Krasis Incubation to its owner's hand: Put two +1/+1 counters on enchanted creature.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Kraul Warrior
+Cost:	 1G
+Type:	 Creature — Insect Warrior
+Pow/Tgh:	 (2/2)
+Rules Text:	 {5}{G}: Kraul Warrior gets +3/+3 until end of turn.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Lavinia of the Tenth
+Cost:	 3WU
+Type:	 Legendary Creature — Human Soldier
+Pow/Tgh:	 (4/4)
+Rules Text:	 Protection from red
+When Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with converted mana cost 4 or less. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Legion's Initiative
+Cost:	 RW
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Red creatures you control get +1/+0.
+White creatures you control get +0/+1.
+{R}{W}, Exile Legion's Initiative: Exile all creatures you control. At the beginning of the next combat, return those cards to the battlefield under their owner's control and those creatures gain haste until end of turn.
+Set/Rarity:	 Dragon's Maze Mythic Rare
+
+Name	Profit // Loss (Loss)
+Cost:	 2B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Creatures your opponents control get -1/-1 until end of turn.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Lyev Decree
+Cost:	 1W
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Detain up to two target creatures your opponents control. (Until your next turn, those creatures can't attack or block and their activated abilities can't be activated.)
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Master of Cruelties
+Cost:	 3BR
+Type:	 Creature — Demon
+Pow/Tgh:	 (1/4)
+Rules Text:	 First strike, deathtouch
+Master of Cruelties can only attack alone.
+Whenever Master of Cruelties attacks a player and isn't blocked, that player's life total becomes 1. Master of Cruelties assigns no combat damage this combat.
+Set/Rarity:	 Dragon's Maze Mythic Rare
+
+Name	Maw of the Obzedat
+Cost:	 3WB
+Type:	 Creature — Thrull
+Pow/Tgh:	 (3/3)
+Rules Text:	 Sacrifice a creature: Creatures you control get +1/+1 until end of turn.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Maze Abomination
+Cost:	 5B
+Type:	 Creature — Elemental
+Pow/Tgh:	 (4/5)
+Rules Text:	 Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Multicolored creatures you control have deathtouch.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Maze Behemoth
+Cost:	 5G
+Type:	 Creature — Elemental
+Pow/Tgh:	 (5/4)
+Rules Text:	 Trample
+Multicolored creatures you control have trample.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Maze Glider
+Cost:	 5U
+Type:	 Creature — Elemental
+Pow/Tgh:	 (3/5)
+Rules Text:	 Flying
+Multicolored creatures you control have flying.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Maze Rusher
+Cost:	 5R
+Type:	 Creature — Elemental
+Pow/Tgh:	 (6/3)
+Rules Text:	 Haste
+Multicolored creatures you control have haste.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Maze Sentinel
+Cost:	 5W
+Type:	 Creature — Elemental
+Pow/Tgh:	 (3/6)
+Rules Text:	 Vigilance
+Multicolored creatures you control have vigilance.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Maze's End
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 Maze's End enters the battlefield tapped.
+{T}: Add {1} to your mana pool.
+{3}, {T}, Return Maze's End to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle your library. If you control ten or more Gates with different names, you win the game.
+Set/Rarity:	 Dragon's Maze Mythic Rare
+
+Name	Melek, Izzet Paragon
+Cost:	 4UR
+Type:	 Legendary Creature — Weird Wizard
+Pow/Tgh:	 (2/4)
+Rules Text:	 Play with the top card of your library revealed.
+You may cast the top card of your library if it's an instant or sorcery card.
+Whenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Mending Touch
+Cost:	 G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Regenerate target creature.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Mindstatic
+Cost:	 3U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target spell unless its controller pays {6}.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Mirko Vosk, Mind Drinker
+Cost:	 3UB
+Type:	 Legendary Creature — Vampire
+Pow/Tgh:	 (2/4)
+Rules Text:	 Flying
+Whenever Mirko Vosk, Mind Drinker deals combat damage to a player, that player reveals cards from the top of his or her library until he or she reveals four land cards, then puts those cards into his or her graveyard.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Morgue Burst
+Cost:	 4BR
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Return target creature card from your graveyard to your hand. Morgue Burst deals damage to target creature or player equal to the power of the card returned this way.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Murmuring Phantasm
+Cost:	 1U
+Type:	 Creature — Spirit
+Pow/Tgh:	 (0/5)
+Rules Text:	 Defender
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Mutant's Prey
+Cost:	 G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature you control with a +1/+1 counter on it fights target creature an opponent controls. (Each deals damage equal to its power to the other.)
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Nivix Cyclops
+Cost:	 1UR
+Type:	 Creature — Cyclops
+Pow/Tgh:	 (1/4)
+Rules Text:	 Defender
+Whenever you cast an instant or sorcery spell, Nivix Cyclops gets +3/+0 until end of turn and can attack this turn as though it didn't have defender.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Notion Thief
+Cost:	 2UB
+Type:	 Creature — Human Rogue
+Pow/Tgh:	 (3/1)
+Rules Text:	 Flash
+If an opponent would draw a card except the first one he or she draws in each of his or her draw steps, instead that player skips that draw and you draw a card.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Obzedat's Aid
+Cost:	 3WB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Return target permanent card from your graveyard to the battlefield.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Opal Lake Gatekeepers
+Cost:	 3U
+Type:	 Creature — Vedalken Soldier
+Pow/Tgh:	 (2/4)
+Rules Text:	 When Opal Lake Gatekeepers enters the battlefield, if you control two or more Gates, you may draw a card.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Orzhov Cluestone
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Add {W} or {B} to your mana pool.
+{W}{B}, {T}, Sacrifice Orzhov Cluestone: Draw a card.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Orzhov Guildgate
+Cost:	
+Type:	 Land — Gate
+Pow/Tgh:	
+Rules Text:	 Orzhov Guildgate enters the battlefield tapped.
+{T}: Add {W} or {B} to your mana pool.
+Set/Rarity:	 Dragon's Maze Common, Gatecrash Common
+
+Name	Phytoburst
+Cost:	 1G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target creature gets +5/+5 until end of turn.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Pilfered Plans
+Cost:	 1UB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target player puts the top two cards of his or her library into his or her graveyard. Draw two cards.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Plasm Capture
+Cost:	 GGUU
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors to your mana pool, where X is that spell's converted mana cost.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Pontiff of Blight
+Cost:	 4BB
+Type:	 Creature — Zombie Cleric
+Pow/Tgh:	 (2/7)
+Rules Text:	 Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each opponent loses 1 life and you gain that much life.)
+Other creatures you control have extort. (If a creature has multiple instances of extort, each triggers separately.)
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Possibility Storm
+Cost:	 3RR
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever a player casts a spell from his or her hand, that player exiles it, then exiles cards from the top of his or her library until he or she exiles a card that shares a card type with it. That player may cast that card without paying its mana cost. Then he or she puts all cards exiled with Possibility Storm on the bottom of his or her library in a random order.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Profit // Loss (Profit)
+Cost:	 1W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Creatures you control get +1/+1 until end of turn.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Progenitor Mimic
+Cost:	 4GU
+Type:	 Creature — Shapeshifter
+Pow/Tgh:	 (0/0)
+Rules Text:	 You may have Progenitor Mimic enter the battlefield as a copy of any creature on the battlefield except it gains "At the beginning of your upkeep, if this creature isn't a token, put a token onto the battlefield that's a copy of this creature."
+Set/Rarity:	 Dragon's Maze Mythic Rare
+
+Name	Protect // Serve (Protect)
+Cost:	 2W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +2/+4 until end of turn.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Punish the Enemy
+Cost:	 4R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Punish the Enemy deals 3 damage to target player and 3 damage to target creature.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Putrefy
+Cost:	 1BG
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target artifact or creature. It can't be regenerated.
+Set/Rarity:	 Dragon's Maze Uncommon, Duel Decks: Izzet vs. Golgari Uncommon, Ravnica: City of Guilds Uncommon
+
+Name	Pyrewild Shaman
+Cost:	 2R
+Type:	 Creature — Goblin Shaman
+Pow/Tgh:	 (3/1)
+Rules Text:	 Bloodrush — {1}{R}, Discard Pyrewild Shaman: Target attacking creature gets +3/+1 until end of turn.
+Whenever one or more creatures you control deal combat damage to a player, if Pyrewild Shaman is in your graveyard, you may pay {3}. If you do, return Pyrewild Shaman to your hand.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Rakdos Cluestone
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Add {B} or {R} to your mana pool.
+{B}{R}, {T}, Sacrifice Rakdos Cluestone: Draw a card.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Rakdos Drake
+Cost:	 2B
+Type:	 Creature — Drake
+Pow/Tgh:	 (1/2)
+Rules Text:	 Flying
+Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Rakdos Guildgate
+Cost:	
+Type:	 Land — Gate
+Pow/Tgh:	
+Rules Text:	 Rakdos Guildgate enters the battlefield tapped.
+{T}: Add {B} or {R} to your mana pool.
+Set/Rarity:	 Dragon's Maze Common, Return to Ravnica Common
+
+Name	Ral Zarek
+Cost:	 2UR
+Type:	 Planeswalker — Ral
+Loyalty:	 (4)
+Rules Text:	 +1: Tap target permanent, then untap another target permanent.
+-2: Ral Zarek deals 3 damage to target creature or player.
+-7: Flip five coins. Take an extra turn after this one for each coin that comes up heads.
+Set/Rarity:	 Dragon's Maze Mythic Rare
+
+Name	Ready // Willing (Ready)
+Cost:	 1GW
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Creatures you control are indestructible this turn. Untap each creature you control.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Reap Intellect
+Cost:	 X2UB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target opponent reveals his or her hand. You choose up to X nonland cards from it and exile them. For each card exiled this way, search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles his or her library.
+Set/Rarity:	 Dragon's Maze Mythic Rare
+
+Name	Catch // Release (Release)
+Cost:	 4RW
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Each player sacrifices an artifact, a creature, an enchantment, a land, and a planeswalker.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Render Silent
+Cost:	 WUU
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target spell. Its controller can't cast spells this turn.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Renegade Krasis
+Cost:	 1GG
+Type:	 Creature — Beast Mutant
+Pow/Tgh:	 (3/2)
+Rules Text:	 Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)
+Whenever Renegade Krasis evolves, put a +1/+1 counter on each other creature you control with a +1/+1 counter on it.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Renounce the Guilds
+Cost:	 1W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Each player sacrifices a multicolored permanent.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Restore the Peace
+Cost:	 1WU
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Return each creature that dealt damage this turn to its owner's hand.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Riot Control
+Cost:	 2W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 You gain 1 life for each creature your opponents control. Prevent all damage that would be dealt to you this turn.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Riot Piker
+Cost:	 1R
+Type:	 Creature — Goblin Berserker
+Pow/Tgh:	 (2/1)
+Rules Text:	 First strike
+Riot Piker attacks each turn if able.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Rot Farm Skeleton
+Cost:	 2BG
+Type:	 Creature — Plant Skeleton
+Pow/Tgh:	 (4/1)
+Rules Text:	 Rot Farm Skeleton can't block.
+{2}{B}{G}, Put the top four cards of your library into your graveyard: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Rubblebelt Maaka
+Cost:	 3R
+Type:	 Creature — Cat
+Pow/Tgh:	 (3/3)
+Rules Text:	 Bloodrush — {R}, Discard Rubblebelt Maaka: Target attacking creature gets +3/+3 until end of turn.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Runner's Bane
+Cost:	 1U
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature with power 3 or less
+When Runner's Bane enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Ruric Thar, the Unbowed
+Cost:	 4RG
+Type:	 Legendary Creature — Ogre Warrior
+Pow/Tgh:	 (6/6)
+Rules Text:	 Vigilance, reach
+Ruric Thar, the Unbowed attacks each turn if able.
+Whenever a player casts a noncreature spell, Ruric Thar deals 6 damage to that player.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Saruli Gatekeepers
+Cost:	 3G
+Type:	 Creature — Elf Warrior
+Pow/Tgh:	 (2/4)
+Rules Text:	 When Saruli Gatekeepers enters the battlefield, if you control two or more Gates, you gain 7 life.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Savageborn Hydra
+Cost:	 XRG
+Type:	 Creature — Hydra
+Pow/Tgh:	 (0/0)
+Rules Text:	 Double strike
+Savageborn Hydra enters the battlefield with X +1/+1 counters on it.
+{1}{(r/g)}: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.
+Set/Rarity:	 Dragon's Maze Mythic Rare
+
+Name	Scab-Clan Giant
+Cost:	 4RG
+Type:	 Creature — Giant Warrior
+Pow/Tgh:	 (4/5)
+Rules Text:	 When Scab-Clan Giant enters the battlefield, it fights target creature an opponent controls chosen at random.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Scion of Vitu-Ghazi
+Cost:	 3WW
+Type:	 Creature — Elemental
+Pow/Tgh:	 (4/4)
+Rules Text:	 When Scion of Vitu-Ghazi enters the battlefield, if you cast it from your hand, put a 1/1 white Bird creature token with flying onto the battlefield, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Selesnya Cluestone
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Add {G} or {W} to your mana pool.
+{G}{W}, {T}, Sacrifice Selesnya Cluestone: Draw a card.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Selesnya Guildgate
+Cost:	
+Type:	 Land — Gate
+Pow/Tgh:	
+Rules Text:	 Selesnya Guildgate enters the battlefield tapped.
+{T}: Add {G} or {W} to your mana pool.
+Set/Rarity:	 Dragon's Maze Common, Return to Ravnica Common
+
+Name	Protect // Serve (Serve)
+Cost:	 1U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets -6/-0 until end of turn.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Showstopper
+Cost:	 1BR
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Until end of turn, creatures you control gain "When this creature dies, it deals 2 damage to target creature an opponent controls."
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Simic Cluestone
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Add {G} or {U} to your mana pool.
+{G}{U}, {T}, Sacrifice Simic Cluestone: Draw a card.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Simic Guildgate
+Cost:	
+Type:	 Land — Gate
+Pow/Tgh:	
+Rules Text:	 Simic Guildgate enters the battlefield tapped.
+{T}: Add {G} or {U} to your mana pool.
+Set/Rarity:	 Dragon's Maze Common, Gatecrash Common
+
+Name	Sin Collector
+Cost:	 1WB
+Type:	 Creature — Human Cleric
+Pow/Tgh:	 (2/1)
+Rules Text:	 When Sin Collector enters the battlefield, target opponent reveals his or her hand. You choose an instant or sorcery card from it and exile that card.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Sinister Possession
+Cost:	 B
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Whenever enchanted creature attacks or blocks, its controller loses 2 life.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Sire of Insanity
+Cost:	 4BR
+Type:	 Creature — Demon
+Pow/Tgh:	 (6/4)
+Rules Text:	 At the beginning of each end step, each player discards his or her hand.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Skylasher
+Cost:	 1G
+Type:	 Creature — Insect
+Pow/Tgh:	 (2/2)
+Rules Text:	 Flash
+Skylasher can't be countered.
+Reach, protection from blue
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Smelt-Ward Gatekeepers
+Cost:	 3R
+Type:	 Creature — Human Warrior
+Pow/Tgh:	 (2/4)
+Rules Text:	 When Smelt-Ward Gatekeepers enters the battlefield, if you control two or more Gates, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Species Gorger
+Cost:	 3GU
+Type:	 Creature — Frog Beast
+Pow/Tgh:	 (6/6)
+Rules Text:	 At the beginning of your upkeep, return a creature you control to its owner's hand.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Spike Jester
+Cost:	 BR
+Type:	 Creature — Goblin Warrior
+Pow/Tgh:	 (3/1)
+Rules Text:	 Haste
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Steeple Roc
+Cost:	 4W
+Type:	 Creature — Bird
+Pow/Tgh:	 (3/1)
+Rules Text:	 Flying, first strike
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Sunspire Gatekeepers
+Cost:	 3W
+Type:	 Creature — Human Soldier
+Pow/Tgh:	 (2/4)
+Rules Text:	 When Sunspire Gatekeepers enters the battlefield, if you control two or more Gates, put a 2/2 white Knight creature token with vigilance onto the battlefield.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Tajic, Blade of the Legion
+Cost:	 2RW
+Type:	 Legendary Creature — Human Soldier
+Pow/Tgh:	 (2/2)
+Rules Text:	 Tajic, Blade of the Legion is indestructible.
+Battalion — Whenever Tajic and at least two other creatures attack, Tajic gets +5/+5 until end of turn.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Give // Take (Take)
+Cost:	 2U
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Remove all +1/+1 counters from target creature you control. Draw that many cards.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Wear // Tear (Tear)
+Cost:	 W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target enchantment.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Teysa, Envoy of Ghosts
+Cost:	 5WB
+Type:	 Legendary Creature — Human Advisor
+Pow/Tgh:	 (4/4)
+Rules Text:	 Vigilance, protection from creatures
+Whenever a creature deals combat damage to you, destroy that creature. Put a 1/1 white and black Spirit creature token with flying onto the battlefield.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Thrashing Mossdog
+Cost:	 3G
+Type:	 Creature — Plant Hound
+Pow/Tgh:	 (3/3)
+Rules Text:	 Reach (This creature can block creatures with flying.)
+Scavenge {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Tithe Drinker
+Cost:	 WB
+Type:	 Creature — Vampire
+Pow/Tgh:	 (2/1)
+Rules Text:	 Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each opponent loses 1 life and you gain that much life.)
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Toil // Trouble (Toil)
+Cost:	 2B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target player draws two cards and loses 2 life.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Trait Doctoring
+Cost:	 U
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another until end of turn.
+Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Trostani's Summoner
+Cost:	 5GW
+Type:	 Creature — Elf Shaman
+Pow/Tgh:	 (1/1)
+Rules Text:	 When Trostani's Summoner enters the battlefield, put a 2/2 white Knight creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green Rhino creature token with trample onto the battlefield.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Toil // Trouble (Trouble)
+Cost:	 2R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Trouble deals damage to target player equal to the number of cards in that player's hand.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Turn // Burn (Turn)
+Cost:	 2U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature loses all abilities and becomes a 0/1 red Weird until end of turn.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Ubul Sar Gatekeepers
+Cost:	 3B
+Type:	 Creature — Zombie Soldier
+Pow/Tgh:	 (2/4)
+Rules Text:	 When Ubul Sar Gatekeepers enters the battlefield, if you control two or more Gates, target creature an opponent controls gets -2/-2 until end of turn.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Uncovered Clues
+Cost:	 2U
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Look at the top four cards of your library. You may reveal up to two instant and/or sorcery cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Unflinching Courage
+Cost:	 1GW
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +2/+2 and has trample and lifelink.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Varolz, the Scar-Striped
+Cost:	 1BG
+Type:	 Legendary Creature — Troll Warrior
+Pow/Tgh:	 (2/2)
+Rules Text:	 Each creature card in your graveyard has scavenge. The scavenge cost is equal to its mana cost. (Exile a creature card from your graveyard and pay its mana cost: Put a number of +1/+1 counters equal to that card's power on target creature. Scavenge only as a sorcery.)
+Sacrifice another creature: Regenerate Varolz, the Scar-Striped.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Viashino Firstblade
+Cost:	 1RW
+Type:	 Creature — Viashino Soldier
+Pow/Tgh:	 (2/2)
+Rules Text:	 Haste
+When Viashino Firstblade enters the battlefield, it gets +2/+2 until end of turn.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Voice of Resurgence
+Cost:	 GW
+Type:	 Creature — Elemental
+Pow/Tgh:	 (2/2)
+Rules Text:	 Whenever an opponent casts a spell during your turn or when Voice of Resurgence dies, put a green and white Elemental creature token onto the battlefield with "This creature's power and toughness are each equal to the number of creatures you control."
+Set/Rarity:	 Dragon's Maze Mythic Rare
+
+Name	Vorel of the Hull Clade
+Cost:	 1GU
+Type:	 Legendary Creature — Human Merfolk
+Pow/Tgh:	 (1/4)
+Rules Text:	 {G}{U}, {T}: For each counter on target artifact, creature, or land, put another of those counters on that permanent.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Wake the Reflections
+Cost:	 W
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Populate. (Put a token onto the battlefield that's a copy of a creature token you control.)
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Warleader's Helix
+Cost:	 2RW
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Warleader's Helix deals 4 damage to target creature or player and you gain 4 life.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Warped Physique
+Cost:	 UB
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +X/-X until end of turn, where X is the number of cards in your hand.
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Weapon Surge
+Cost:	 R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature you control gets +1/+0 and gains first strike until end of turn.
+Overload {1}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
+Set/Rarity:	 Dragon's Maze Common
+
+Name	Wear // Tear (Wear)
+Cost:	 1R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target artifact.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Alive // Well (Well)
+Cost:	 W
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 You gain 2 life for each creature you control.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Ready // Willing (Willing)
+Cost:	 1WB
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Creatures you control gain deathtouch and lifelink until end of turn.
+Fuse (You may cast one or both halves of this card from your hand.)
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Wind Drake
+Cost:	 2U
+Type:	 Creature — Drake
+Pow/Tgh:	 (2/2)
+Rules Text:	 Flying
+Set/Rarity:	 Dragon's Maze Common, Magic 2013 Common, Magic 2010 Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Starter 2000 Common, Battle Royale Box Set Common, Starter 1999 Common, Classic Sixth Edition Common, Tempest Common, Portal Common
+
+Name	Woodlot Crawler
+Cost:	 UB
+Type:	 Creature — Insect
+Pow/Tgh:	 (2/1)
+Rules Text:	 Forestwalk, protection from green
+Set/Rarity:	 Dragon's Maze Uncommon
+
+Name	Zhur-Taa Ancient
+Cost:	 3RG
+Type:	 Creature — Beast
+Pow/Tgh:	 (7/5)
+Rules Text:	 Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.
+Set/Rarity:	 Dragon's Maze Rare
+
+Name	Zhur-Taa Druid
+Cost:	 RG
+Type:	 Creature — Human Druid
+Pow/Tgh:	 (1/1)
+Rules Text:	 {T}: Add {G} to your mana pool.
+Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent.
+Set/Rarity:	 Dragon's Maze Common
+
+Name	aetherling
+Cost:	 4UU
+Type:	 Creature — Shapeshifter
+Pow/Tgh:	 (4/5)
+Rules Text:	 {U}: Exile aetherling. Return it to the battlefield under its owner's control at the beginning of the next end step.
+{U}: aetherling is unblockable this turn.
+{1}: aetherling gets +1/-1 until end of turn.
+{1}: aetherling gets -1/+1 until end of turn.
+Set/Rarity:	 Dragon's Maze Rare
